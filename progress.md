@@ -16,6 +16,11 @@ Total Completed: 12 / 150
 Notes:
 
 ## Day 4 - Mar 11 2026
+Problems Done: 2
+Total Completed: 14 / 150
+Notes:
+
+## Day 4 - Mar 12 2026
 Problems Done: 
-Total Completed: 12 / 150
+Total Completed: 14 / 150
 Notes:
