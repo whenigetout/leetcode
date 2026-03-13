@@ -7,7 +7,7 @@ from typing import List, Optional
 
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        p_v = zip(position, speed)
+        p_v = list(zip(position, speed))
         p_v = sorted(p_v)
         fleets = 0
         while p_v:
@@ -16,6 +16,3 @@ class Solution:
             while p_v and (target - p_v[-1][0]) / (p_v[-1][1]) <= (target - car[0]) / (car[1]):
                 p_v.pop()
         return fleets
-    
-o = Solution()
-print(o.carFleet(target = 12, position = [10,8,0,5,3], speed = [2,4,1,1,3]))
