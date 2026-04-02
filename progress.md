@@ -40,7 +40,7 @@ Problems Done: 6
 Total Completed: 34 / 150
 Notes:
 
-## Day 6 - Mar 19 2026
+## Day 6 - Apr 02 2026
 Problems Done: 
 Total Completed: 34 / 150
 Notes:
